@@ -25,7 +25,7 @@
 
 ## Files
 
-- [File Preview](File%20Preview.hmtl)
+- [File Preview](File%20Preview.html)
 
 ## Tasks
 
