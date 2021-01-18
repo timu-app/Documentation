@@ -4,11 +4,11 @@ The TIMU home page provides a host of quick links to get you where you need to g
 
 ## New Members
 
-These are the newest members of your TIMU network. Click on a member to instantly chat with them, or click “New Chat” to start a chat with other people in your organization. SEE: Chat
+These are the newest members of your TIMU network. Click on a member to instantly chat with them, or click “New Chat” to start a chat with other people in your organization. SEE: [Chat](Chat.html)
 
 ## Recent Workspaces (HIGH TIER)
 
-The workspaces you have visited most recently appear here. Selecting a workspace will take you directly to that workspace’s Posts module. You can also create a brand new workspace (in a new or existing team) by clicking the “New” button. Clicking “Show More Workspaces” will take you to the Teams and Workspaces list. SEE: Teams and Workspaces
+The workspaces you have visited most recently appear here. Selecting a workspace will take you directly to that workspace’s Posts module. You can also create a brand new workspace (in a new or existing team) by clicking the “New” button. Clicking “Show More Workspaces” will take you to the Teams and Workspaces list. SEE: [Teams and Workspaces](Teams%20and%20Workspaces.html)
 
 ## Recent Activity
 
@@ -16,7 +16,7 @@ Here you will find all of the TIMU resources you have visited most recently, all
 
 ## You Can Also… Sidebar
 
-“Start a Team” (HIGH TIER) - Click to launch the Team creator. Teams are ways of organizing people and workspaces in your organization. SEE: Team Creation
+“Start a Team” (HIGH TIER) - Click to launch the Team creator. Teams are ways of organizing people and workspaces in your organization. SEE: [Team Creation](Team%20Creation.html)
 
 “Join a Team” (HIGH TIER) - Click to view a list of public Teams in your network. Public teams are open to anyone in your organization.
 
