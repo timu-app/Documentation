@@ -26,12 +26,12 @@ File libraries support organization into folders and sub-folders. To create a ne
 
 To add files directly to a file library, click the “Upload Files” button and select the files you want to attach from your computer. To create a brand new file (e.g., a new Microsoft Word document), click the “New File” button and select the type of file you would like to create. You will be asked to provide a name for the file. When the file is created, you will be immediately taken to the preview page for that file.
 
-To view a file’s preview, or to edit files (for file types supporting online editing), click the file’s name. SEE: File Preview
+To view a file’s preview, or to edit files (for file types supporting online editing), click the file’s name. SEE: [File Preview](File%20Preview.html)
 
 Note that files uploaded to a chat’s file library count against the network’s overall storage limits.
 
 ## Video Chat
 
-TIMU supports high-quality video and voice chat in all private chat channels. To launch a video chat call, click the “Open Video Chat Room” button. Other users who belong to that chat will receive pop-up and push notifications letting them know that you’ve joined the video call. SEE: Video Calls
+TIMU supports high-quality video and voice chat in all private chat channels. To launch a video chat call, click the “Open Video Chat Room” button. Other users who belong to that chat will receive pop-up and push notifications letting them know that you’ve joined the video call. SEE: [Video Calls](Video%20Calls.html)
 
 Note that video chat time in private chats counts against the network’s overall video chat time limits.
