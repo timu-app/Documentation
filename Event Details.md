@@ -6,7 +6,7 @@ Events in TIMU are either private events or Workspace events. Private events are
 
 From the event details screen, you can view the event’s time, location, description, and attendees, as well as your attendance status. To change your attendance status for the event, click the “Change RSVP” button and select a new status. If you are an owner of the event, click the “Edit Event” button to make changes to the event.
 
-If the event is an online meeting, you can click the “Join Meeting” button to launch the video call lobby screen. SEE: Video Calls
+If the event is an online meeting, you can click the “Join Meeting” button to launch the video call lobby screen. SEE: [Video Calls](Video%20Calls.html)
 
 On the right-hand side of the event details, you’ll be able to see the event calendar, the time and date of the selected event occurrence, your attendance status, and the list of attendees. If you are an event owner, invitations can be re-sent to all attendees by clicking the “Resend Invites” button.
 
@@ -32,6 +32,6 @@ File libraries support organization into folders and sub-folders. To create a ne
 
 To add files directly to a file library, click the “Upload Files” button and select the files you want to attach from your computer. To create a brand new file (e.g., a new Microsoft Word document), click the “New File” button and select the type of file you would like to create. You will be asked to provide a name for the file. When the file is created, you will be immediately taken to the preview page for that file.
 
-To view a file’s preview, or to edit files (for file types supporting online editing), click the file’s name. SEE: File Preview
+To view a file’s preview, or to edit files (for file types supporting online editing), click the file’s name. SEE: [File Preview](File%20Preview.html)
 
 Note that files uploaded to a Workspace’s file library count against the network’s overall storage limits.
