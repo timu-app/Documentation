@@ -29,7 +29,7 @@
 
 ## Tasks
 
-- [Tasks](Tasks.hmtl)
+- [Tasks](Tasks.html)
 - [Task Details](Task%20Details.html)
 - [Task Creation](Task%20Creation.html)
 - [Edit Fields](Edit%20Fields.html)
