@@ -14,6 +14,7 @@
 - [Calendar](Calendar.html)
 - [Event Details](Event%20Details.html)
 - [Event Creation](Event%20Creation.html)
+- [Video Calls](Video%20Calls.html)
 
 ## Teams and Workspaces
 
