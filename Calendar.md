@@ -4,8 +4,8 @@ The TIMU calendar displays all events you have been invited to or have accepted 
 
 To advance forward or backward in months/weeks/days, click the arrow buttons to the left and right of the month (or week/day if using a different view type) label.
 
-To create a new private event, click the “New Private Event” button. You can also create a new private event on a specific day by double-clicking in the blank space within that day’s cell on the calendar. (Similarly, on the week and day views you can create new events at a specific time by double-clicking on a blank spot in the timeline.) SEE: Event Creation
+To create a new private event, click the “New Private Event” button. You can also create a new private event on a specific day by double-clicking in the blank space within that day’s cell on the calendar. (Similarly, on the week and day views you can create new events at a specific time by double-clicking on a blank spot in the timeline.) SEE: [Event Creation](Event%20Creation.html)
 
-To access an existing event, click on the event’s name on the calendar. A pop-up will appear with various options related to the event. If you are an event owner, you can edit or cancel the event from this pop-up. To view the event’s details, click the “Details” button. To join the event’s video call, click the “Join” button. You will be taken to the video call lobby. SEE: Event Details, Video Calls
+To access an existing event, click on the event’s name on the calendar. A pop-up will appear with various options related to the event. If you are an event owner, you can edit or cancel the event from this pop-up. To view the event’s details, click the “Details” button. To join the event’s video call, click the “Join” button. You will be taken to the video call lobby. SEE: [Event Details](Event%20Details.html), [Video Calls](Video%20Calls.html)
 
 On the calendar month view, if there are more than five events on a given day, you can view any additional events by clicking the “More” at the bottom of the calendar cell.
