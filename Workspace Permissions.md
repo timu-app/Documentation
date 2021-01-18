@@ -14,6 +14,6 @@ Finally, you have the option of converting the Workspace into a Team-wide Worksp
 
 ## Team-wide Workspaces
 
-Team-wide Workspaces inherit their permission levels from the Team they belong to. Team owners have administrator permissions within the Workspace, and Team members have contributor permissions within the Workspace. To modify the membership of a Team-wide Workspace, you must modify the membership of the Team it belongs to. You can click “Team Membership” to go directly to the Team Membership dialog. SEE: Team Membership
+Team-wide Workspaces inherit their permission levels from the Team they belong to. Team owners have administrator permissions within the Workspace, and Team members have contributor permissions within the Workspace. To modify the membership of a Team-wide Workspace, you must modify the membership of the Team it belongs to. You can click “Team Membership” to go directly to the Team Membership dialog. SEE: [Team Membership](Team%20Membership.html)
 
 You also have the option of converting the Team-wide Workspace to a private Workspace. If you do so, Team members will no longer have access to this Workspace unless they are added to it. To convert the Workspace, click “Make It Private”.
