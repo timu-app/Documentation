@@ -1,6 +1,6 @@
 # TIMU Documentation Index
 
-- [TIMU FAQ][faq.html]
+- [TIMU FAQ](faq.html)
 - [TIMU Shell](TIMU%20Shell.html)
 - [TIMU Home Page](TIMU%20Home%20Page.html)
 - [Invite to TIMU](Invite%20to%20TIMU.html)
