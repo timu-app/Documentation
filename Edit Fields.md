@@ -1,5 +1,7 @@
 # Edit Fields
 
+NOTE: The legacy Tasks module is being deprecated and replaced by the new Plans module
+
 Each Workspace can have its own custom set of task fields. By default, the Tasks module comes with a set of built-in fields that are applicable to most projects. These include the following:
 
 - Name: The task’s name. This is a required field.
