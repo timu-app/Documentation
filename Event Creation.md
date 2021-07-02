@@ -4,6 +4,8 @@ Before creating a TIMU event, decide whether the event should be a private event
 
 To create an event, click “New Private Event” from the TIMU calendar app, or click “New Workspace Event” from the Workspace Events module.
 
+![Event creation step 1 screenshot](https://fakeimg.pl/640x360/)
+
 You will be prompted to specify a name for the event, a list of attendees to send invitations to (if the event is a private event), a start and end time and date, a time zone, and to choose whether the event will recur. To make a recurring event, from the dropdown labeled “Never Repeat”, choose the desired frequency (daily, weekly, monthly, or yearly). On the recurrence details popup, specify when the event will recur and when the event series will terminate (if at all).
 
 You can also specify an event location and description. A default description is provided, and can be amended or replaced as necessary.
@@ -13,3 +15,5 @@ Finally, choose whether the event will be in-person only, a video call, or a rec
 If you are creating a private event, click “Create” once you have filled out the event’s details. The event will be created and invitations sent to all attendees. You will be taken automatically to the event’s details screen.
 
 If you are creating a Workspace event, click “Next” once you have filled out the event’s details. You will be prompted to choose which Workspace members should be invited to the event. When you have selected the attendees, click “Create”. The event will be created and invitations sent to all attendees. You will be taken automatically to the event’s details screen.
+
+![Workspace event invitation dialog screenshot](https://fakeimg.pl/640x360/)
