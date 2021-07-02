@@ -1,6 +1,8 @@
 # Global Search
 
-Search results in the TIMU global search are ranked by relevance and categorized by type of TIMU record - messages, files, events, tasks (HIGH-TIER), and people.
+Search results in the TIMU global search are ranked by relevance and categorized by type of TIMU record - messages, files, images events, cards, and people.
+
+![Search results screenshot](https://fakeimg.pl/640x360/)
 
 Click a category tab to view results that fall under that category. By default, message results are displayed (including comments, chat messages, and posts).
 
