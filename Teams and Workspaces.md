@@ -20,17 +20,21 @@ When a Team is created, a default Team-wide Workspace called “General” will 
 
 To manage a Workspace’s permissions, rename, or delete a Workspace, hover over the Workspace’s name in the Teams list and click the triple-dot icon that appears. Note that some of these options are available only to users with ownership permissions over the Workspace. SEE: [Workspace Permissions](Workspace%20Permissions.html)
 
-Each TIMU Workspace has four modules: Posts, Files, Tasks, and Events. To switch between modules, click the module tabs at the top of the Workspace.
+Each TIMU Workspace has four modules: Posts, Files, Plans, and Events. To switch between modules, click the module tabs at the top of the Workspace.
 
 ## Posts
 
 The Posts module is a place for members of your Workspace to chat, post updates, get feedback, and stay up-to-date on what’s happening within the Workspace. Similar to a chat channel, you can type comments and replies, attach files, react to individual messages with emoji, and tag other Workspace members using the @mention feature. If you want to make sure that someone sees your post, @mention them. The user you mention will receive a notification about your post that they can follow directly into the chat. SEE: [Chat](Chat.html)
 
-In addition to comments posted directly to the Posts module, this feed also displays comments made in other modules within the Workspace, including comments associated with files, events, and tasks. These comments appear with a different background color, and indicate the file, event, or task they belong to. You can click on the name of the parent record to go directly to its details.
+![Posts module screenshot](https://fakeimg.pl/640x360/)
+
+In addition to comments posted directly to the Posts module, this feed also displays comments made in other modules within the Workspace, including comments associated with files, events, and cards. These comments appear with a different background color, and indicate the file, event, or card they belong to. You can click on the name of the parent record to go directly to its details.
 
 ## Files
 
 Each Workspace has its own file library accessible only to members of that Workspace. All files attached anywhere in the Workspace appear here - including post attachments, attachments to event comments, and attachments to task comments.
+
+![Files module screenshot](https://fakeimg.pl/640x360/)
 
 These files can be previewed, downloaded, and, in some cases, edited directly from the file library. Hovering over a file will cause the triple-dot icon to appear, and clicking on this icon allows you to rename, delete, or share the file.
 
@@ -44,15 +48,17 @@ To view a file’s preview, or to edit files (for file types supporting online e
 
 Note that files uploaded to a Workspace’s file library count against the network’s overall storage limits.
 
-## Tasks
+## Plans
 
-SEE: [Tasks](Tasks.html)
+SEE: [Plans](Tasks.html)
 
 ## Events
 
 Events that pertain to the work being done in a Workspace can be created from within the Workspace itself. To create a new Workspace event, click the Events tab at the top of the Workspace, then click the “New Event” button. SEE: [Event Creation](Event%20Creation.html)
 
-The Events tab lists all events within the Workspace which are either currently ongoing, or are scheduled for the future. By default, canceled and past events are hidden from view. To see past of canceled events, click the checkbox labeled “Display past or canceled events”.
+![Workspace events module screenshot](https://fakeimg.pl/640x360/)
+
+The Events tab lists all events within the Workspace which are either currently ongoing, or are scheduled for the future. By default, canceled and past events are hidden from view. To see past of canceled events, click the checkbox labeled “Display past or canceled events only”.
 
 If you are an owner of the Workspace, you will be able to edit or cancel events from this page. All users can view the details of an event, or click the “Join” button to go directly to the lobby for the event’s video call. SEE: [Video Calls](Video%20Calls.html)
 
