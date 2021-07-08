@@ -1,4 +1,12 @@
-# Teams and Workspaces (HIGH-TIER)
+---
+layout: default
+title: Teams and Workspaces
+nav_order: 1
+has_children: true
+---
+
+
+# Teams and Workspaces
 
 TIMU networks are organized into Teams, and further broken down into Workspaces.
 
