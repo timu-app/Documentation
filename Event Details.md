@@ -1,3 +1,10 @@
+---
+layout: default
+title: Event Details
+parent: Calendar and Events
+nav_order: 1
+---
+
 # Event Details
 
 The event details screen contains all information about an event or event series.
