@@ -1,3 +1,10 @@
+---
+layout: default
+title: Team Membership
+parent: Teams and Workspaces
+nav_order: 1
+---
+
 # Team Membership
 
 To modify the membership of a Team, click the triple-dot icon next to the Team’s name and select “Manage Members”.
