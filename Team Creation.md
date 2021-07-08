@@ -1,3 +1,10 @@
+---
+layout: default
+title: Team Creation
+parent: Teams and Workspaces
+nav_order: 0
+---
+
 # Team Creation
 
 To create a new TIMU Team, go to the Teams app and click the “Join or Create Teams” button at the bottom of the Teams list, then click the “New Team” button.
