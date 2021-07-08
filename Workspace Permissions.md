@@ -1,3 +1,10 @@
+---
+layout: default
+title: Workspace Permissions
+parent: Teams and Workspaces
+nav_order: 3
+---
+
 # Workspace Permissions
 
 To manage a Workspace’s permissions, hover over the Workspace’s name in the Teams list and click the triple-dot icon that appears. From the context menu, select Manage Permissions.
