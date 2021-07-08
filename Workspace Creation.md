@@ -1,3 +1,10 @@
+---
+layout: default
+title: Workspace Creation
+parent: Teams and Workspaces
+nav_order: 2
+---
+
 # Workspace Creation 
 
 To create a new TIMU Workspace, go to the Teams app, locate the Team you want the new Workspace to belong to, and click the triple-dot icon next to the Team’s name. From the context menu, select “New Workspace”.
