@@ -1,4 +1,4 @@
-# Tasks (HIGH-TIER)
+# Tasks
 
 The tasks module is a powerful way to manage the status of work being done in your Workspace. Tasks have a number of default fields relevant to nearly all projects, but Workspace owners can further customize their task module using the “Edit Fields” button. To create a new task, click the “New Task” button. SEE: [Edit Fields](Edit%20Fields.html), [Task Creation](Task%20Creation.html)
 
