@@ -1,4 +1,11 @@
-# Calendar
+---
+layout: default
+title: Calendar and Events
+nav_order: 2
+has_children: true
+---
+
+# Calendar and Events
 
 The TIMU calendar displays all events you have been invited to or have accepted an invitation to (but not events that are canceled, or events for which you have declined the invitation) in a convenient month-by-month layout. Week and day views are also available. To change the view type, click the “Change” button and select a different view type.
 
