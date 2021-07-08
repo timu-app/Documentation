@@ -1,3 +1,9 @@
+---
+layout: default
+title: Index
+nav_order: 0
+---
+
 # TIMU Documentation Index
 
 - [TIMU FAQ](faq.html)
