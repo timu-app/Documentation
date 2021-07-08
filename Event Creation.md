@@ -1,3 +1,10 @@
+---
+layout: default
+title: Event Creation
+parent: Calendar and Events
+nav_order: 0
+---
+
 # Event Creation
 
 Before creating a TIMU event, decide whether the event should be a private event, or a Workspace event. Private events are created through the TIMU calendar app, are not associated with a specific Workspace, and anyone in your network can be added to a private event. Workspace events are created from with a Workspace’s Events module, and everyone in that Workspace has access to the event.
