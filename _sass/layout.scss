@@ -87,33 +87,32 @@
 }
 
 .side-bar {
-  z-index: 0;
   display: flex;
   flex-wrap: wrap;
+  margin-top: $header-height;
 
   @include mq(md) {
     flex-wrap: nowrap;
     position: fixed;
-    width: $nav-width-md;
+    z-index: 0;
+    top: 0;
+    width: $nav-width;
     height: 100%;
     flex-direction: column;
-    border-right: $border $border-color;
     align-items: flex-end;
   }
 
   @include mq(lg) {
     width: calc((100% - #{$nav-width + $content-width}) / 2 + #{$nav-width});
-    min-width: $nav-width;
   }
 }
 
 .main {
-  margin-top: $header-height;
-
   @include mq(md) {
     position: relative;
     max-width: $content-width;
-    margin-left: $nav-width-md;
+    margin-top: $header-height;
+    margin-left: $nav-width;
   }
 
   @include mq(lg) {
@@ -144,7 +143,6 @@
     justify-content: space-between;
     height: $header-height;
     background-color: $body-background-color;
-    border-bottom: $border $border-color;
   }
 
   &.nav-open {
