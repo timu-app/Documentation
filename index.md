@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Index
-nav_order: 0
+nav_exclude: true
 ---
 
 # TIMU Documentation Index
